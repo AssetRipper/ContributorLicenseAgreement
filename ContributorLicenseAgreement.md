@@ -13,6 +13,6 @@ You accept and agree to the following terms and conditions for Your Contribution
 7. Should You wish to submit work that is not Your original creation, You may submit it to the Organization separately from any Contribution, identifying the complete details of its source and of any license or other restriction (including, but not limited to, related patents, trademarks, and license agreements) of which you are personally aware, and conspicuously marking the work as "Submitted on behalf of a third-party: [named here]".
 8. You agree to notify the Organization of any facts or circumstances of which you become aware that would make these representations inaccurate in any respect. 
 
-The Organization can be contacted by email at assetripper@gmail.com
+The Organization can be contacted by email at support@assetripper.com
 
 Adapted from the Apache Software Foundation Individual Contributor License Agreement v2.2
